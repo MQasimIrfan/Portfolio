@@ -14,10 +14,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>Designed and Developed by M.Qasim</h3>
         </Col>
-        <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
-        </Col>
-        <Col md="4" className="footer-body">
+        {/* <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
@@ -31,7 +28,7 @@ function Footer() {
             </li>
           
           </ul>
-        </Col>
+        </Col> */}
       </Row>
     </Container>
   );

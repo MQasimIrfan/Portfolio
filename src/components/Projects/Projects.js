@@ -8,9 +8,9 @@ import store from "../../Assets/Projects/Store1.png";
 
 function Projects() {
   const imageStyle = {
-    width: "100%", // Adjust this as needed (e.g., "300px" for specific dimensions)
-    height: "200px", // Ensure images are uniform in height
-    objectFit: "cover", // Ensures images are cropped properly
+    width: "100%", 
+    height: "200px", 
+    objectFit: "cover", 
   };
 
   return (
